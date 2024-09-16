@@ -85,6 +85,7 @@ orgs:
     - lundak
     - lrommerskirchen
     - m4rc0z
+    - manuel84
     - marcellobellini
     - MarkusFlorian79
     - mariusreusch
@@ -149,6 +150,8 @@ orgs:
     - robert-groensfeld
     - tschei65
     - seejaybee
+    - jdbg0e
+    - udamken
     teams:
       Organization Managers:
         description: Baloise GitHub Organization Managers
